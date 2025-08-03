@@ -1,0 +1,9 @@
+.env
+.env.example
+alter-mightylocaldelivery.sql
+mighty-local-delivery.zip
+mightylocaldelivery.sql
+old-alter-mightylocaldelivery.sql
+old-mightylocaldelivery.sql
+composer.lock
+/vendor
